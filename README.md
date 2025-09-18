@@ -1,7 +1,7 @@
 # Tugas 1 - Javascript: Menghitung Luas Bangun Datar
 
 ### Deskripsi Proyek
-Proyek ini adalah bagian dari Tugas 1 mata kuliah Javascript. Proyek ini berisi satu file HTML (`tugas1.html`) yang di dalamnya terdapat kode JavaScript untuk menghitung luas tiga bangun datar:
+Proyek ini adalah bagian dari Tugas Petemuan 1 materi Javascript. Proyek ini berisi satu file HTML (`tugas1.html`) yang di dalamnya terdapat kode JavaScript untuk menghitung luas tiga bangun datar:
 - Persegi Panjang
 - Bujur Sangkar (Persegi)
 - Segitiga
